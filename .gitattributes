@@ -1,1 +1,5 @@
 Final_Raw_data/Final_data.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+Final_Raw_data/Final_data.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.cdv filter=lfs diff=lfs merge=lfs -text
